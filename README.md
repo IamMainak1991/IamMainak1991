@@ -5,6 +5,7 @@
 - 📫 How to reach me mainakbiswas2011@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am still learning....! Apna Time Ayega..!
+-  👀 Linkedin - https://www.linkedin.com/in/iammainakbiswas/
 
 <!---
 IamMainak1991/IamMainak1991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
